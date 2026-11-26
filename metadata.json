@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "اپلیکیشن مدیریت زندگی و برنامهریزی شخصی کاملاً فارسی و آفلاین با مدیریت وظایف، برنامهریزی زمانی، اهداف، عادتها، تقویم شمسی، پروژهها، یادداشتها و تحلیل عملکرد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LifeOS</string>
+    <string name="brand_wordmark">LIFEOS</string>
+    <string name="brand_subtitle">سیستم مدیریت زندگی شخصی</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_planner">برنامهریزی</string>
+    <string name="nav_tasks">وظایف</string>
+    <string name="nav_goals">اهداف</string>
+    <string name="nav_habits">عادتها</string>
+    <string name="nav_calendar">تقویم</string>
+    <string name="nav_projects">پروژهها</string>
+    <string name="nav_notes">یادداشتها</string>
+    <string name="nav_analytics">گزارشها</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_more">بیشتر</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">ذخیره</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_edit">ویرایش</string>
+    <string name="action_add">افزودن</string>
+    <string name="action_confirm">تأیید</string>
+    <string name="action_close">بستن</string>
+    <string name="action_back">بازگشت</string>
+    <string name="action_search">جستوجو</string>
+    <string name="action_today">امروز</string>
+    <string name="action_all">همه</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">یادآوریهای LIFEOS</string>
+    <string name="notification_channel_desc">اعلانهای محلی برای وظایف، سررسیدها، رویدادها و عادتها</string>
+</resources>
